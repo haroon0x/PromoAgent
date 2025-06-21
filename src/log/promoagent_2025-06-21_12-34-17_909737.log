@@ -1,0 +1,59 @@
+2025-06-21 12:34:53 | INFO     | __main__:<module>:5 - === PromoAgent: Autonomous Reddit Marketing Agent ===
+2025-06-21 12:42:13 | INFO     | src.core.agent_graph:node_generate_reply:34 - Generating reply for thread: MCP helped me gain a lot of productivity at work
+2025-06-21 12:42:18 | INFO     | src.core.agent_graph:node_generate_reply:36 - Generated reply: Thanks for sharing your experience with Claude! It’s great to hear how you’ve leveraged its capabili...
+2025-06-21 12:42:20 | INFO     | src.api.reddit_api:post_comment:90 - Posted comment: https://reddit.com/r/ClaudeAI/comments/1l597wp/mcp_helped_me_gain_a_lot_of_productivity_at_work/myy7zze/
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:node_search_comment_questions:60 - Found 10 potential questions in comments.
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:70 - --- Comment Questions Found ---
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+1. Comment by sundar1213 (Score: 16)
+   Text: Can you please provide more details about the MCP? Is it open source? I’m just trying to understand about it now....
+   ID: mwfo8rf
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+2. Comment by Linkman145 (Score: 10)
+   Text: Which MCPs are worth it? File system mcp for example, cant Claude Code just use bash commands for that?...
+   ID: mwf76m0
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+3. Comment by sjm04f (Score: 5)
+   Text: Following - love to hear more about your FP&A use cases. Currently we are heavy into excel, sql, snowflake, and tableau. 
+
+Built some manual processes and forecasts into automated tableau dashboards. ...
+   ID: mwfltav
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+4. Comment by MarxinMiami (Score: 3)
+   Text: I'm not a programmer, but I understand a little Python and Claude helps me with simpler automations, such as merging several balance sheets and accounting ratios, processing data, etc. 
+
+With Filesyst...
+   ID: mwfpvc3
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+5. Comment by SahirHuq100 (Score: 2)
+   Text: What do you do with the file system mcp?I have it but I found it’s not that good at searching for files....
+   ID: mwh4e23
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+6. Comment by Ok_Appointment_2064 (Score: 2)
+   Text: If you need accuracy and create insights. It’s better to use Pandas library. And then the output can be sent to Ilms to provide better output and analysis...
+   ID: mwkc8xz
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+7. Comment by Curious-Signal3491 (Score: 2)
+   Text: I have mysql, flask, react combo going. Flask will need to be replaced at some stage with something more scalable. The app calculates ratios, IRRs, Benchmarks, presents dashboards based on financial d...
+   ID: mwg3md6
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+8. Comment by bingeboy (Score: 2)
+   Text: is an MPC supported with pro? I can’t justify paying for max right now. I’m using terminal with pro which seems to work pretty well as long as it is following a few patterns established...
+   ID: mwhoj0j
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+9. Comment by DebateNo2239 (Score: 2)
+   Text: Sorry, what is termind ?...
+   ID: mwgrkhq
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+10. Comment by rajnandan1 (Score: 1)
+   Text: I use the below while coding
+Sequential thinking
+Memory
+Desktop commander
+Playwright
+
+Any other people using?...
+   ID: mwfwb5l
+2025-06-21 12:42:22 | INFO     | src.core.agent_graph:print_comment_questions:84 - -----------------------------
+2025-06-21 12:42:22 | INFO     | __main__:<module>:17 - --- Pipeline Complete ---
+2025-06-21 12:42:22 | INFO     | __main__:<module>:32 - (If configured, a notification email has been sent.)

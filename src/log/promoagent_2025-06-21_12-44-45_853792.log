@@ -1,0 +1,59 @@
+2025-06-21 12:44:47 | INFO     | __main__:<module>:5 - === PromoAgent: Autonomous Reddit Marketing Agent ===
+2025-06-21 12:45:33 | INFO     | src.core.agent_graph:node_generate_reply:34 - Generating reply for thread: I've built and tested over 40 MCP servers - here's my vetting process and the 13 that i actually use for personal and dev use
+2025-06-21 12:45:38 | INFO     | src.core.agent_graph:node_generate_reply:36 - Generated reply: Thanks for sharing your comprehensive vetting process! It’s great to see such thorough evaluation. I...
+2025-06-21 12:45:39 | ERROR    | src.api.reddit_api:post_comment:93 - Error posting comment to thread 1l1sgb9: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 6 minutes before trying again." on field 'ratelimit'
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:node_search_comment_questions:60 - Found 10 potential questions in comments.
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:70 - --- Comment Questions Found ---
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+1. Comment by Its-all-redditive (Score: 11)
+   Text: Is this something that would be useful in Claude Code?How would it supplement the workflow since CC is already intended to be an agentic construct which SHOULD implement this reasoning approach by def...
+   ID: mvnuei1
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+2. Comment by Top-Chain001 (Score: 7)
+   Text: It's more like does it help Claude code as I'm sure the folks at anthropic probably already baked it into the model...
+   ID: mvogu3a
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+3. Comment by Mediocre_Western_233 (Score: 6)
+   Text: I mean, maybe it’s not. I am just a vet tech with a hobby that’s been able to build some pretty complete websites with just this process. Build the skeleton, give it a framework to follow to add meat ...
+   ID: mvoy7yr
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+4. Comment by Top-Chain001 (Score: 5)
+   Text: Have you tried these with claude code especially sequential thinking?...
+   ID: mvnpz70
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+5. Comment by InterstellarReddit (Score: 5)
+   Text: Built? Which ones did you built? Seems to me like all you did was click install on the mcp servers....
+   ID: mvpaix8
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+6. Comment by Mediocre_Western_233 (Score: 5)
+   Text: Well, I use browser tools to have my agent screenshot its implementation of my front end to automate web design, just tell it what to implement and how I’d like it implemented (or have it define that ...
+   ID: mvo6x68
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+7. Comment by PurpleCollar415 (Score: 4)
+   Text: Made one specifically for Claude Code based on sequential thinking tools mcp 
+
+https://github.com/MattMagg/sequential-thinking-claude-code...
+   ID: mvop69k
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+8. Comment by mettavestor (Score: 4)
+   Text: They’re quite useful for sonnet 4 and insightful for opus 4. Meaning they guide sonnet towards better results and slow down and make the thinking transparent to the user for opus. 
+
+My take. Essential...
+   ID: mvtwwz5
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+9. Comment by PurpleCollar415 (Score: 3)
+   Text: If anyone uses sequential thinking with Claude code, feel free to give my repo a try. 
+
+It enhances ST on a ton of different aspects….its a fork of Scott Spence’s ST tools repo.
+
+https://github.com/Ma...
+   ID: mvopewc
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:79 - 
+10. Comment by howiew0wy (Score: 3)
+   Text: Good list! Why brave search over standard web search?
+
+I’ve been digging the Neo4j Aura mcp as a memory/knowledge graph....
+   ID: mvnjd2d
+2025-06-21 12:45:41 | INFO     | src.core.agent_graph:print_comment_questions:84 - -----------------------------
+2025-06-21 12:45:41 | INFO     | __main__:<module>:17 - --- Pipeline Complete ---
+2025-06-21 12:45:41 | INFO     | __main__:<module>:32 - (If configured, a notification email has been sent.)

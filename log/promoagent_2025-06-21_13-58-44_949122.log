@@ -1,0 +1,4 @@
+2025-06-21 14:07:03 | INFO     | src.core.agent_graph:node_generate_reply:34 - Generating reply for thread: GPT-4 Week 3. Chatbots are yesterdays news. AI Agents are the future. The beginning of the proto-agi era is here
+2025-06-21 14:07:10 | INFO     | src.core.agent_graph:node_generate_reply:36 - Generated reply: It's amazing how quickly AI is evolving! With tools like PocketFlow, which offers an agent developme...
+2025-06-21 14:07:11 | ERROR    | src.api.reddit_api:post_comment:93 - Error posting comment to thread 12diapw: TOO_OLD: "that's a piece of history now; it's too late to reply to it" on field 'parent'
+2025-06-21 14:07:11 | ERROR    | src.core.agent_graph:node_notify_via_email:138 - Error sending email notification: Gmail credentials or recipient email not set in environment.
