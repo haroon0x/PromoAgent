@@ -1,11 +1,10 @@
 # PromoAgent
 
-PromoAgent is an autonomous Reddit marketing agent designed to help brands and products engage with relevant Reddit threads in a natural, non-spammy way. It automatically searches for discussions, generates context-aware replies, and can post them directly or provide previews for review.
-
+PromoAgent is an autonomous Reddit marketing agent designed to help brands and products engage with relevant Reddit threads in a natural, non-spammy way. It automatically searches for discussions, generates context-aware replies, and can post them directly or provide previews for review. It uses **alchemyst-c1** model from  [Alchemyst AI](https://getalchemystai.com/) 
 ## Demo
-A demo video of PromoAgent in action is available:
+A demo video of PromoAgent in action :
+<video src="https://github.com/user-attachments/assets/9c127a45-e46a-48f5-8451-282b9fdc6de5" width="600" controls></video>
 
-[Watch Demo Video (mp4, 4.3MB)](./misc/demo.mp4)
 
 ## Features
 - **Autonomous Reddit Engagement:** Finds and replies to relevant Reddit threads based on your topic and brand instructions.
