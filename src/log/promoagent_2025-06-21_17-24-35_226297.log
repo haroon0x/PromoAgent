@@ -1,0 +1,4 @@
+2025-06-21 17:25:52 | INFO     | src.core.agent_graph:node_generate_reply:34 - Generating reply for thread: Just finished putting together everything I wish I had when I started building AI agents
+2025-06-21 17:25:57 | INFO     | src.core.agent_graph:node_generate_reply:36 - Generated reply: Thanks for sharing that resource! It’s great to see someone compiling all these essentials into one ...
+2025-06-21 17:25:59 | INFO     | src.api.reddit_api:post_comment:92 - Posted comment: https://reddit.com/r/AI_Agents/comments/1l5h4f6/just_finished_putting_together_everything_i_wish/myz1crg/
+2025-06-21 17:25:59 | ERROR    | src.core.agent_graph:node_notify_via_email:138 - Error sending email notification: Gmail credentials or recipient email not set in environment.
