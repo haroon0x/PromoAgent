@@ -19,10 +19,10 @@ PromoAgent is an autonomous Reddit marketing agent designed to help brands and p
 - The frontend sends agent requests to the FastAPI backend.
 - The backend orchestrates the agent pipeline using LangChain and Alchemyst AI for generating replies.
 - Results and activity logs are streamed back to the frontend for real-time updates.
-
 ---
 
-```graph TD
+```mermaid
+graph TD
     A["Frontend UI<br/>(Input & Config)"] -->|1. Start Agent| B["Backend API<br/>(FastAPI Server)"];
     B -->|2. Run Pipeline| C["Agent Graph<br/>(LangGraph)"];
 
@@ -45,6 +45,5 @@ PromoAgent is an autonomous Reddit marketing agent designed to help brands and p
     style I fill:#D5F5E3,stroke:#2ECC71
     style J fill:#D5F5E3,stroke:#2ECC71
 ```
-
 
 *PromoAgent is designed for responsible, authentic engagement. Please use in accordance with Reddit's rules and best practices.*
